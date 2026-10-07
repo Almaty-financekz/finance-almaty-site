@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://almaty-financekz.github.io/finance-almaty-site/sitemap.xml
